@@ -1,0 +1,280 @@
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\gustavo\source\repos\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\Tiago\Downloads\testeCalc_5.8.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_5.9.4\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc_5.9.4\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\Tiago\Downloads\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.0.1\testeCalc_6.0.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.1.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.exe
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.deps.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.runtimeconfig.json
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Form1.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmCalculadora.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmHistorico.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.FrmInformacoes.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.csproj.Up2Date
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\refint\testeCalc.dll
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.pdb
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\testeCalc.genruntimeconfig.cache
+C:\Users\ruben\OneDrive\Área de Trabalho\testeCalc_6.3.0\testeCalc\testeCalc\obj\Debug\net8.0-windows\ref\testeCalc.dll

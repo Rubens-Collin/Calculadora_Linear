@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|c:\\users\\ruben\\onedrive\\\u00E1rea de trabalho\\testecalc_6.3.0\\testecalc\\testecalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|solutionrelative:testecalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testecalc\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|solutionrelative:testecalc\\frmcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testecalc\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|solutionrelative:testecalc\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testecalc\\frminformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|solutionrelative:testecalc\\frminformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testecalc\\frminformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|solutionrelative:testecalc\\frminformacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testecalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088F37EE-5BCB-432A-BDCD-FD46E7FFAF7C}|testeCalc\\testeCalc.csproj|solutionrelative:testecalc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\Form1.cs",
+              "RelativeDocumentMoniker": "testeCalc\\Form1.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\Form1.cs",
+              "RelativeToolTip": "testeCalc\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:36:56.912Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\Form1.cs",
+              "RelativeDocumentMoniker": "testeCalc\\Form1.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\Form1.cs [Projeto]",
+              "RelativeToolTip": "testeCalc\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:19:59.601Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmInformacoes.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\FrmInformacoes.cs",
+              "RelativeDocumentMoniker": "testeCalc\\FrmInformacoes.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\FrmInformacoes.cs",
+              "RelativeToolTip": "testeCalc\\FrmInformacoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:20:31.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmInformacoes.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\FrmInformacoes.cs",
+              "RelativeDocumentMoniker": "testeCalc\\FrmInformacoes.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.1.0\\testeCalc\\testeCalc\\FrmInformacoes.cs [Projeto]",
+              "RelativeToolTip": "..\\..\\testeCalc_6.1.0\\testeCalc\\testeCalc\\FrmInformacoes.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:20:45.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\Material.cs",
+              "RelativeDocumentMoniker": "testeCalc\\Material.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\Material.cs",
+              "RelativeToolTip": "testeCalc\\Material.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T02:19:35.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\FrmCalculadora.cs",
+              "RelativeDocumentMoniker": "testeCalc\\FrmCalculadora.cs",
+              "ToolTip": "C:\\Users\\ruben\\OneDrive\\\u00C1rea de Trabalho\\testeCalc_6.3.0\\testeCalc\\testeCalc\\FrmCalculadora.cs",
+              "RelativeToolTip": "testeCalc\\FrmCalculadora.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAIwIUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T02:15:07.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

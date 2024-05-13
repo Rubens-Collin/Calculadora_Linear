@@ -1,0 +1,11 @@
+C:\Users\gustavo\Desktop\testeCalc.exe
+C:\Users\gustavo\Desktop\testeCalc.dll
+C:\Users\gustavo\Desktop\testeCalc.deps.json
+C:\Users\gustavo\Desktop\testeCalc.runtimeconfig.json
+C:\Users\gustavo\Desktop\testeCalc.pdb
+C:\Users\gustavo\Desktop\System.Data.SqlClient.dll
+C:\Users\gustavo\Desktop\runtimes\win-arm64\native\sni.dll
+C:\Users\gustavo\Desktop\runtimes\win-x64\native\sni.dll
+C:\Users\gustavo\Desktop\runtimes\win-x86\native\sni.dll
+C:\Users\gustavo\Desktop\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gustavo\Desktop\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
